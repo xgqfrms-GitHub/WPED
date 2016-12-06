@@ -3,6 +3,6 @@
 
 > this is forever repository, it will live forever!
 
-## Anybody is welcomed to make some contribute!
+## Anybody is welcome to make some contribute!
 
 ## more coming soon..
