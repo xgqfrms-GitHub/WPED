@@ -8,6 +8,14 @@ web-front-end
 
 web-back-end
 
+server
+
+os
+
+hacker
+
+iot
+
 date, year, month
 
 author
