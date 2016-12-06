@@ -1,6 +1,6 @@
 # catalogy
 
-publisher
+publisher/press
 
 database
 
